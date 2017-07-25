@@ -1,0 +1,8 @@
+{
+	"name" : "Simple Hello World 01",
+	"description" : "Extension Tutorial, Simple Hello World.",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "0.1",
+	"author": "Qlik"
+}
